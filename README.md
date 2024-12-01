@@ -6,10 +6,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-thomasgav.com-4D4D4D?style=flat&logo=google-chrome&logoColor=white)](https://thomasgav.com)
 [![Email Badge](https://img.shields.io/badge/Email-tgruch@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tgruch@gmail.com)
 
-## 👨‍💻 About Me
+## 🧑🏻‍💻 About Me
 I'm a **Full Stack Developer** passionate about building meaningful and impactful projects. I enjoy working with cutting-edge technologies and love to learn and collaborate with others.
 
-- 🌱 Currently learning **Python**.
+- 📚 Currently learning **Python**.
 - 🚀 Looking to contribute to projects in any domain. Get in touch if you'd like to collaborate!
 
 ## 🛠️ Skills & Technologies
@@ -47,7 +47,7 @@ Soon to come..
 - **[Guessr](https://github.com/tgavri/guessr)**
    - A collaborative guessing game built with my student group. Explore how we leveraged teamwork to create this fun, interactive web app.
 
-## 🌱 Fun Facts
+## 🌟 Fun Facts
 - 🏞️ I love **traveling** and exploring new destinations.
 - 🍳 I enjoy **cooking** and trying out different cuisines.
 - 🚵 I’m an avid **mountain biker** and **swimmer**.
@@ -58,7 +58,7 @@ Feel free to reach out to discuss projects, collaborate, or chat about tech!
 - **Email**: [tgruch@gmail.com](mailto:tgruch@gmail.com)
 - **Website**: [thomasgav.com](https://thomasgav.com)
 
-## 📚 Connect with Me
+## 🌐 Connect with Me
 - [Portfolio](https://thomasgav.com)
 
 ## 👁️ Profile Views
