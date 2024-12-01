@@ -14,38 +14,43 @@ I'm a **Full Stack Developer** passionate about building meaningful and impactfu
 
 ## 🛠️ Skills & Technologies
 ### Programming Languages
-- ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=black) **Java**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
-- ![Python](https://img.shields.io/badge/Python-%233776D1?style=flat&logo=python&logoColor=white) **Python**
+- ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-%233776D1?style=flat&logo=python&logoColor=white)
 
 ### Web Development
-- ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) **HTML**
-- ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white) **CSS**
-- ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=white) **Vue.js**
+- ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=white)
 
 ### Backend Development
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white) **Node.js**
+- ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 
 ### Tools & Platforms
-- ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white) **Git**
-- ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white) **Docker**
-- ![NPM](https://img.shields.io/badge/NPM-%23303030?style=flat&logo=npm&logoColor=white) **NPM**
-- ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black) **Linux**
+- ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+- ![NPM](https://img.shields.io/badge/NPM-%23303030?style=flat&logo=npm&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
 
 ### Database Technologies
-- ![MySQL](https://img.shields.io/badge/MySQL-%234F82D2?style=flat&logo=mysql&logoColor=white) **MySQL**
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white) **MongoDB**
+- ![MySQL](https://img.shields.io/badge/MySQL-%234F82D2?style=flat&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgavri&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ## 🚀 Current Projects
-- **[Guessr](https://github.com/tgavri/guessr)**: A collaborative guessing game built with my student group. Dive into the code and see how we approached building this fun project!
+### 📂 Highlighted Projects:
+Soon to come..
+
+### 🌱 Projects in Progress:
+- **[Guessr](https://github.com/tgavri/guessr)**
+   - A collaborative guessing game built with my student group. Explore how we leveraged teamwork to create this fun, interactive web app.
 
 ## 🌱 Fun Facts
 - 🏞️ I love **traveling** and exploring new destinations.
 - 🍳 I enjoy **cooking** and trying out different cuisines.
-- 🚵 I’m an avid **mountain biker**.
+- 🚵 I’m an avid **mountain biker** and **swimmer**.
 
 ## 📫 Get in Touch
 Feel free to reach out to discuss projects, collaborate, or chat about tech!
