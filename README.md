@@ -104,14 +104,14 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 </div>
 
 
-<br>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tgavri&color=brightgreen&style=flat-square" alt="Profile Views" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tgavri&color=brightgreen&style=flat-square" alt="Profile Views" />
+</div>
+
 
 ---
 <div align="center">
