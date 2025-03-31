@@ -103,15 +103,22 @@ I'm a passionate student focused on creating innovative solutions and meaningful
   </a>
 </div>
 
+
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tgavri&color=brightgreen&style=flat-square" alt="Profile Views" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
 </div>
 
+<br>
+
 ---
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect" alt="Typing SVG" />
 </div>
+
+
 
 
 
