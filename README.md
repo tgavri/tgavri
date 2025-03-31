@@ -73,14 +73,14 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 
 ## 🚀 Featured Projects
 
-### Guessr
+### [Guessr](https://github.com/tgavri/guessr)
 > A collaborative guessing game built with my student group. Features include:
 - Interactive gameplay mechanics
 - Real-time collaboration
 - Modern UI/UX design
 - Responsive layout
 
-### KinoXP
+### [KinoXP](https://github.com/tgavri/KinoXP)
 > A cinema booking system with features like:
 - Seat selection interface
 - Movie scheduling
