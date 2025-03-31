@@ -73,6 +73,14 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 
 ## 🚀 Featured Projects
 
+### [DronePizza](https://github.com/tgavri/DronePizza)
+> A 24-hour exam project: An autonomous drone-based pizza delivery system that streamlines order management and delivery operations. Features include:
+- Real-time drone status tracking (active, out of order, retired)
+- Order management with expected delivery times
+- User-friendly dashboard for delivery management
+- Drone assignment system for orders
+- Built with Java and Spring Boot
+
 ### [Vegan Recipe Generator](https://github.com/tgavri/Vegan-Recipe-Generator)
 > An AI-powered web application that generates healthy vegan recipes based on available ingredients. Features include:
 - AI-powered recipe generation using Meta Llama 2
