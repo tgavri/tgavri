@@ -73,6 +73,14 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 
 ## 🚀 Featured Projects
 
+### [Vegan Recipe Generator](https://github.com/tgavri/Vegan-Recipe-Generator)
+> An AI-powered web application that generates healthy vegan recipes based on available ingredients. Features include:
+- AI-powered recipe generation using Meta Llama 2
+- User-friendly interface for ingredient input
+- Responsive design for all devices
+- Danish language support
+- Nutritional information display
+
 ### [Guessr](https://github.com/tgavri/guessr)
 > A collaborative guessing game built with my student group. Features include:
 - Interactive gameplay mechanics
