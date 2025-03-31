@@ -82,9 +82,10 @@ Feel free to reach out to discuss projects, collaborate, or chat about tech!
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  Thanks for stopping by! 😊
+
 </div>
 
-Thanks for stopping by! 😊
 
 
 
