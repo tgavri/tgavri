@@ -9,7 +9,7 @@
 ## 🧑🏻‍💻 About Me
 I'm a **Full Stack Developer** passionate about building meaningful and impactful projects. I enjoy working with cutting-edge technologies and love to learn and collaborate with others.
 
-- 📚 Currently learning **Python**.
+- 📚 Currently learning **Python**, **React Native** and **Machine Learning**
 - 🚀 Looking to contribute to projects in any domain. Get in touch if you'd like to collaborate!
 
 ## 🛠️ Skills & Technologies
@@ -41,8 +41,11 @@ I'm a **Full Stack Developer** passionate about building meaningful and impactfu
 
 ## 🚀 Current Projects
 ### 📂 Highlighted Projects:
-Soon to come..
-
+- **[Guessr](https://github.com/tgavri/guessr)**
+    - A collaborative guessing game built with my student group. Explore how we leveraged teamwork to create this fun, interactive web app.
+- **[KinoXP](https://github.com/tgavri/KinoXP)**
+    - A collaborative project built with my student group. It is a website for a cinema showing viewings with seat selection and more.
+    
 ### 🌱 Projects in Progress:
 - **[Guessr](https://github.com/tgavri/guessr)**
    - A collaborative guessing game built with my student group. Explore how we leveraged teamwork to create this fun, interactive web app.
@@ -66,7 +69,7 @@ Feel free to reach out to discuss projects, collaborate, or chat about tech!
 
 ---
 
-Thanks for stopping by! Let's build something amazing together! 😊
+Thanks for stopping by! 😊
 
 
 
