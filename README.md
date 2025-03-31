@@ -43,8 +43,8 @@ I'm a **Full Stack Developer** passionate about building meaningful and impactfu
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 🔥 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tgavri&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="GitHub Stats" />
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tgavri&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgavri&theme=dark" alt="GitHub Streak" />
 </div>
 
