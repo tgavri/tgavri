@@ -1,4 +1,3 @@
-
 # Hello, I'm Thomas! 👋
 
 <!-- Social Media Badges -->
@@ -17,19 +16,26 @@ I'm a **Full Stack Developer** passionate about building meaningful and impactfu
 - ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=black)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-%233776D1?style=flat&logo=python&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
 
-### Web Development
+### Frontend Development
 - ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=white)
+- ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=flat&logo=react&logoColor=black)
+- ![Expo](https://img.shields.io/badge/Expo-%23000020?style=flat&logo=expo&logoColor=white)
 
 ### Backend Development
 - ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+- ![JSON](https://img.shields.io/badge/JSON-%23000000?style=flat&logo=json&logoColor=white)
 
 ### Tools & Platforms
 - ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
 - ![NPM](https://img.shields.io/badge/NPM-%23303030?style=flat&logo=npm&logoColor=white)
+- ![NPX](https://img.shields.io/badge/NPX-%23CB3837?style=flat&logo=npm&logoColor=white)
+- ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat&logo=vite&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
 
 ### Database Technologies
@@ -37,7 +43,10 @@ I'm a **Full Stack Developer** passionate about building meaningful and impactfu
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgavri&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tgavri&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgavri&theme=dark" alt="GitHub Streak" />
+</div>
 
 ## 🚀 Current Projects
 ### 📂 Highlighted Projects:
@@ -53,7 +62,7 @@ I'm a **Full Stack Developer** passionate about building meaningful and impactfu
 ## 🌟 Fun Facts
 - 🏞️ I love **traveling** and exploring new destinations.
 - 🍳 I enjoy **cooking** and trying out different cuisines.
-- 🚵 I’m an avid **mountain biker** and **swimmer**.
+- 🚵 I'm an avid **mountain biker** and **swimmer**.
 
 ## 📫 Get in Touch
 Feel free to reach out to discuss projects, collaborate, or chat about tech!
@@ -65,9 +74,15 @@ Feel free to reach out to discuss projects, collaborate, or chat about tech!
 - [Portfolio](https://thomasgav.com)
 
 ## 👁️ Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=tgavri&color=brightgreen)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tgavri&color=brightgreen" alt="Profile views" />
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+</div>
 
 Thanks for stopping by! 😊
 
