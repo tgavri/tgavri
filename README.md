@@ -79,7 +79,7 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 - Order management with expected delivery times
 - User-friendly dashboard for delivery management
 - Drone assignment system for orders
-- Built with Java and Spring Boot
+- Built with Java, Spring Boot, JPA, JDBC, RESTful API, and Docker
 
 ### [Vegan Recipe Generator](https://github.com/tgavri/Vegan-Recipe-Generator)
 > An AI-powered web application that generates healthy vegan recipes based on available ingredients. Features include:
@@ -88,6 +88,7 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 - Responsive design for all devices
 - Danish language support
 - Nutritional information display
+- Built with Python, Flask, Replicate API, and HTML/CSS
 
 ### [Guessr](https://github.com/tgavri/guessr)
 > A collaborative guessing game built with my student group. Features include:
@@ -95,6 +96,7 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 - Real-time collaboration
 - Modern UI/UX design
 - Responsive layout
+- Built with Vue.js, Node.js, and WebSocket for real-time features
 
 ### [KinoXP](https://github.com/tgavri/KinoXP)
 > A cinema booking system with features like:
@@ -102,6 +104,8 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 - Movie scheduling
 - User authentication
 - Booking management
+- Built with Java, Spring Boot, and MySQL
+
 
 ## 🌟 Interests & Hobbies
 - 🏞️ Traveling and exploring new destinations
