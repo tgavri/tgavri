@@ -24,7 +24,7 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 
 - 🔭 Currently working on **React Native** and **Machine Learning** projects
 - 🌱 Expanding my knowledge in **Python** and **TypeScript**
-- 👯 Looking to collaborate on interesting projects
+<!--- 👯 Looking to collaborate on interesting projects-->
 - 💡 Always open to learning new technologies
 
 ## 💻 Tech Stack
