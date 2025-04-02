@@ -1,6 +1,10 @@
-# Hello, I'm Thomas! 👋
+
+<img src="https://raw.githubusercontent.com/Yash621/Yash621/refs/heads/master/images/github-banner.png" alt="Banner" />
+
+  
+  # Hello, I'm Thomas! 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -136,9 +140,10 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 ---
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect" alt="Typing SVG" />
+
+  <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" alt="end" />
+
 </div>
-
-
 
 
 
