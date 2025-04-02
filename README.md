@@ -110,12 +110,10 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 - Booking management
 - Built with Java, Spring Boot, and MySQL
 
-
 ## 🌟 Interests & Hobbies
 - 🏞️ Traveling and exploring new destinations
 - 🍳 Cooking and experimenting with different cuisines
 - 🚵 Mountain biking and swimming
-- 💻 Contributing to open-source projects
 
 ## 📫 Let's Connect
 <div align="center">
