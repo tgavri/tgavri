@@ -65,7 +65,7 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 ## 📊 GitHub Analytics
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=tgavri&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgavri&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tgavri&theme=dark" alt="GitHub Streak" />
   <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=tgavri&theme=dark&hide_border=true" alt="GitHub Activity Graph" /> -->
 </div>
 
