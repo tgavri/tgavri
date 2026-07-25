@@ -90,13 +90,6 @@ I'm a passionate student focused on creating innovative solutions and meaningful
 - Nutritional information display
 - Built with Python, Flask, Replicate API, and HTML/CSS
 
-### [Guessr](https://github.com/tgavri/guessr)
-> A collaborative guessing game built with my student group. Features include:
-- Interactive gameplay mechanics
-- Real-time collaboration
-- Modern UI/UX design
-- Responsive layout
-- Built with Vue.js, Node.js, and WebSocket for real-time features
 
 ### [KinoXP](https://github.com/tgavri/KinoXP)
 > A cinema booking system with features like:
