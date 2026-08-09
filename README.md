@@ -18,8 +18,6 @@
 I finished my Computer Science degree and am now specializing in **IT security**. My CS background covered full-stack development (Java/Spring Boot, JavaScript, Python), and these days I'm most interested in how systems work under the hood — and how they break.
 
 - 🎓 CS graduate, currently studying **IT security** (networking, offensive/defensive security, secure development)
-- 🤖 Running **self-hosted AI** experiments: local LLM chat UIs, live meeting transcription, speech-to-text
-- 🛠️ Comfortable across the stack, happiest close to the backend
 
 ## 💻 Tech Stack
 
