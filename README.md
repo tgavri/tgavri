@@ -66,19 +66,6 @@ I finished my Computer Science degree and am now specializing in **IT security**
 
 ## 🚀 Featured Projects
 
-### [MitID Gateway](https://github.com/tgavri/MitID) 🦀
-> An authentication API gateway written in **Rust**, inspired by Denmark's national digital ID system (MitID). My hands-on project for learning systems programming — building login and token-verification endpoints from scratch instead of reading yet another tutorial.
-- Async HTTP server with **Axum** and **Tokio**
-- `POST /auth/login` and `POST /auth/verify` token flow, typed request/response models with **Serde**
-- Work in progress — the goal is a small but production-shaped auth service
-
-### [Skynet + Jitsi Meet Integration](https://github.com/tgavri/skynet-integration)
-> Self-hosted AI meeting assistant: wiring [Skynet](https://github.com/tgavri/skynet) (an API server for AI services) into a **Jitsi Meet** frontend so meetings get live AI features without sending audio to third-party clouds.
-- **Live transcription** streamed over WebSockets via Faster Whisper
-- **Meeting summaries & action items** generated with vLLM / Ollama (Llama 3.1)
-- Custom Jitsi Meet frontend integration (prejoin flow, in-call UI hooks, PWA assets)
-- Companion repos: [skynet](https://github.com/tgavri/skynet) (the AI service backend) and [meet2stuffs](https://github.com/tgavri/meet2stuffs)
-
 ### [QwenBot](https://github.com/tgavri/qwenbot)
 > A self-hosted LLM chat interface for **Qwen 2.5** models (0.5B → 72B parameters), deployed on datacenter GPUs (NVIDIA A100 80GB).
 - Real-time token streaming over **WebSockets**
