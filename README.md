@@ -15,9 +15,13 @@
 
 ## 🧑🏻‍💻 About Me
 
-I finished my Computer Science degree and am now specializing in **IT security**. My CS background covered full-stack development (Java/Spring Boot, JavaScript, Python), and these days I'm most interested in how systems work under the hood — and how they break.
+I finished my Computer Science degree and am now specializing in **IT security**. My CS background covered full-stack development (Java/Spring Boot, JavaScript, Python)
 
 - 🎓 CS graduate, currently studying **IT security** (networking, offensive/defensive security, secure development)
+### Interests & Hobbies
+- 🏞️ Traveling and exploring new destinations
+- 🍳 Cooking and experimenting with different cuisines
+- 🚵 Mountain biking and swimming
 
 ## 💻 Tech Stack
 
@@ -99,12 +103,7 @@ I finished my Computer Science degree and am now specializing in **IT security**
 
 </details>
 
-## 🌟 Interests & Hobbies
-- 🏞️ Traveling and exploring new destinations
-- 🍳 Cooking and experimenting with different cuisines
-- 🚵 Mountain biking and swimming
 
-## 📫 Let's Connect
 <div align="center">
   <a href="mailto:tgruch@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
