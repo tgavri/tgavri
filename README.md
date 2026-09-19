@@ -1,136 +1,124 @@
-# Hello, I'm Thomas! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=IT+Security+Student;CS+Graduate;Rust+%26+Self-hosted+AI+Tinkerer" alt="Typing SVG" />
-</div>
 
-<div align="center">
+# Thomas
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=480&lines=IT+Security+Student;CS+Graduate;Network+%26+Self-hosted+Infrastructure" alt="Typing SVG" />
+
+<p>
   <a href="https://thomasgav.com">
-    <img src="https://img.shields.io/badge/Portfolio-4D4D4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2D9EF7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:tgruch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
 </div>
 
-## 🧑🏻‍💻 About Me
+---
 
-I finished my Computer Science degree and am now specializing in **IT security**. My CS background covered full-stack development (Java/Spring Boot, JavaScript, Python)
+## About
 
-- 🎓 CS graduate, currently studying **IT security** (networking, offensive/defensive security, secure development)
-### Interests & Hobbies
-- 🏞️ Traveling and exploring new destinations
-- 🍳 Cooking and experimenting with different cuisines
-- 🚵 Mountain biking and swimming
+Computer Science graduate now specializing in **IT security** — networking, offensive and defensive
+security, and secure development. My CS background is full-stack (Java/Spring Boot, Python,
+TypeScript), which I'm increasingly pointing at the infrastructure and security side.
 
-## 💻 Tech Stack
+Most of what I build lately runs on hardware I own: DNS infrastructure, self-hosted LLM deployment,
+and a home lab I use to apply coursework to a live network instead of a sandbox.
 
-### Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<!--  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</div>
+**Currently working on** — recursive DNS with DNSSEC validation, WireGuard mesh networking, and
+network segmentation for untrusted IoT devices.
 
-### Backend & Data
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</div>
+---
 
-### Frontend & Mobile
-<div align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</div>
+## 🚀 Projects
 
-### Systems & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-</div>
+### 🔒 Home Network Security Lab
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tgavri&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tgavri&theme=dark" alt="GitHub Streak" />
-</div>
-
-## 🚀 Featured Projects
-
-### Home Network Security Lab 🔒
-> Self-hosted DNS infrastructure and network segmentation project on a Raspberry Pi 5 — built to apply
+> Self-hosted DNS infrastructure and network segmentation on a Raspberry Pi 5, built to apply
 > coursework to a live network rather than a sandbox.
 
-**DNS layer**
+**DNS infrastructure**
 - **Pi-hole** as a network-wide DNS sinkhole, serving all clients via DHCP-advertised DNS
-- **Unbound** as a local recursive resolver — queries resolve from the root servers down instead of
-  being forwarded to a third-party provider, with **DNSSEC** validation at the edge
-- Closed common bypass paths: disabled the router's secondary-DNS advertisement (clients were
-  silently falling back past the sinkhole), disabled IPv6 to prevent ISP-supplied resolvers via RAs
+- **Unbound** as a local recursive resolver — queries resolve from the root servers down rather than
+  being forwarded to a third-party provider, with **DNSSEC** validated at the network edge
+- Closed client-side bypass paths: disabled the router's secondary-DNS advertisement (clients were
+  silently falling back past the sinkhole) and disabled IPv6 to prevent ISP-supplied resolvers
+  arriving via router advertisements
 
 **Remote access**
-- **Tailscale** (WireGuard) mesh with the Pi as exit node and subnet router — full DNS filtering on
-  mobile networks, and LAN access without exposing any port to the internet
+- **Tailscale** (WireGuard) mesh with the Pi as exit node and subnet router — DNS filtering that
+  follows the device onto mobile networks, and LAN access with no inbound port exposed
 
-**Router hardening** (ASUS RT-AX53U)
+**Router hardening** — ASUS RT-AX53U
 - Disabled **WPS** (Pixie Dust / Reaver PIN recovery), replaced a weak WPA2 passphrase, reviewed
-  DHCP scope and client isolation settings
+  DHCP scope and client isolation
 
 **Traffic analysis**
 - Query-log analysis to profile device behaviour — identified smart-TV telemetry and ACR endpoints,
   and traced an unrecognised domain to its parent application by correlating DNS against running
   processes
-- Audited local listening services with `lsof`/`ss`; found a message broker bound to all interfaces
-  rather than loopback
+- Audited local listening services with `lsof` / `ss`; found a message broker bound to all
+  interfaces rather than loopback
 
-**In progress:** Proxmox cluster on repurposed hardware (Pi as corosync QDevice) · OpenWrt flash for
-transparent DNS redirection · 802.1Q VLAN segmentation for IoT isolation
+**In progress** — Proxmox cluster on repurposed hardware (Pi as corosync QDevice) · OpenWrt flash
+for transparent DNS redirection · 802.1Q VLAN segmentation for IoT isolation
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Pi--hole-FF0000?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-hole" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
-  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-</div>
+<sub>`Pi-hole` · `Unbound` · `DNSSEC` · `WireGuard` · `Linux` · `Bash` · `OpenWrt`</sub>
 
-### [QwenBot](https://github.com/tgavri/qwenbot)
-> A self-hosted LLM chat interface for **Qwen 2.5** models (0.5B → 72B parameters), deployed on datacenter GPUs (NVIDIA A100 80GB).
+<br/>
+
+### 🤖 [QwenBot](https://github.com/tgavri/qwenbot)
+
+> Self-hosted LLM chat interface for **Qwen 2.5** models (0.5B → 72B parameters), deployed on
+> datacenter GPUs (NVIDIA A100 80GB).
+
 - Real-time token streaming over **WebSockets**
 - Dynamic model switching from the UI — pick the model size that fits the task
-- Dockerized deployment with HTTPS and persistent local model cache
+- Dockerized deployment with HTTPS and a persistent local model cache
 
-### [Perplexity Alfred Workflow](https://github.com/tgavri/Perplexity-Alfred) ⭐
-> My most-starred repo: an **Alfred workflow** for macOS that puts Perplexity AI one keystroke away — type `p <query>` and get answers without opening a browser.
+<sub>`Python` · `Docker` · `WebSockets` · `CUDA`</sub>
+
+<br/>
+
+### ⌨️ [Perplexity Alfred Workflow](https://github.com/tgavri/Perplexity-Alfred) ⭐
+
+> My most-starred repo: an **Alfred workflow** for macOS that puts Perplexity AI one keystroke away.
+> Type `p <query>` and get answers without opening a browser.
+
 - Instant queries from anywhere in macOS
 - Copy results to clipboard or open the full answer in the browser
 
-### [Whisper Fun](https://github.com/tgavri/whisper-fun)
-> Speech-to-text experiments with **OpenAI Whisper**, trying out different ways to serve the same model.
-- **Flask** web UI and a **Streamlit** variant for quick comparisons
+<sub>`Alfred` · `Shell` · `macOS`</sub>
+
+<br/>
+
+### 🎙️ [Whisper Fun](https://github.com/tgavri/whisper-fun)
+
+> Speech-to-text experiments with **OpenAI Whisper**, comparing different ways to serve the same
+> model.
+
+- **Flask** web UI and a **Streamlit** variant for side-by-side comparison
 - Reproducible dev environment with a Nix shell
 
-### [ML Travel Game](https://github.com/tgavri/TravelAppExam)
-> Exam project for my Machine Learning and Mobile Development electives (spring 2025): a travel guessing game backed by a machine-learning model.
-- ML implementation in **Python**, following the course pipeline (data prep → training → evaluation)
-- **React Native / Expo** app as the mobile frontend
-- Includes the full write-up and presentation material (in Danish and English)
+<sub>`Python` · `Flask` · `Streamlit` · `Nix`</sub>
+
+<br/>
+
+### 🗺️ [ML Travel Game](https://github.com/tgavri/TravelAppExam)
+
+> Exam project for my Machine Learning and Mobile Development electives (spring 2025): a travel
+> guessing game backed by a machine-learning model.
+
+- ML pipeline in **Python** — data preparation, training, evaluation
+- **React Native / Expo** mobile frontend
+- Includes the full write-up and presentation material (Danish and English)
+
+<sub>`Python` · `React Native` · `Expo`</sub>
 
 <details>
 <summary><b>📦 Earlier CS coursework</b></summary>
+
 <br/>
 
 - **[DronePizza](https://github.com/tgavri/DronePizza)** — 24-hour exam project: REST API for a drone-based pizza delivery system. Java, Spring Boot, JPA, Docker.
@@ -140,23 +128,36 @@ transparent DNS redirection · 802.1Q VLAN segmentation for IoT isolation
 
 </details>
 
+---
+
+## 🛠️ Tech
+
+| | |
+|---|---|
+| **Security & Networking** | Wireshark · nmap · tcpdump · DNS / DNSSEC · Pi-hole · Unbound · WireGuard · OpenWrt · Linux hardening |
+| **Languages** | Java · Python · TypeScript · JavaScript · Bash |
+| **Backend** | Spring Boot · FastAPI · Flask · Node.js |
+| **Data** | MySQL · MongoDB · Redis |
+| **Frontend & Mobile** | React Native · Expo · Vue.js · Tailwind CSS |
+| **Infrastructure** | Linux · Docker · Proxmox · Git · Nix |
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <a href="mailto:tgruch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://thomasgav.com">
-    <img src="https://img.shields.io/badge/Portfolio-4D4D4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tgavri&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tgavri&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ---
+
+## Outside the terminal
+
+Traveling · cooking · mountain biking · swimming
+
 <div align="center">
-  <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" alt="end" />
+<br/>
+<sub>Open to internships and student positions in IT security — <a href="mailto:tgruch@gmail.com">get in touch</a>.</sub>
 </div>
 
 <!-- ============================================================
