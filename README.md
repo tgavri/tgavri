@@ -70,6 +70,43 @@ I finished my Computer Science degree and am now specializing in **IT security**
 
 ## 🚀 Featured Projects
 
+### Home Network Security Lab 🔒
+> Self-hosted DNS infrastructure and network segmentation project on a Raspberry Pi 5 — built to apply
+> coursework to a live network rather than a sandbox.
+
+**DNS layer**
+- **Pi-hole** as a network-wide DNS sinkhole, serving all clients via DHCP-advertised DNS
+- **Unbound** as a local recursive resolver — queries resolve from the root servers down instead of
+  being forwarded to a third-party provider, with **DNSSEC** validation at the edge
+- Closed common bypass paths: disabled the router's secondary-DNS advertisement (clients were
+  silently falling back past the sinkhole), disabled IPv6 to prevent ISP-supplied resolvers via RAs
+
+**Remote access**
+- **Tailscale** (WireGuard) mesh with the Pi as exit node and subnet router — full DNS filtering on
+  mobile networks, and LAN access without exposing any port to the internet
+
+**Router hardening** (ASUS RT-AX53U)
+- Disabled **WPS** (Pixie Dust / Reaver PIN recovery), replaced a weak WPA2 passphrase, reviewed
+  DHCP scope and client isolation settings
+
+**Traffic analysis**
+- Query-log analysis to profile device behaviour — identified smart-TV telemetry and ACR endpoints,
+  and traced an unrecognised domain to its parent application by correlating DNS against running
+  processes
+- Audited local listening services with `lsof`/`ss`; found a message broker bound to all interfaces
+  rather than loopback
+
+**In progress:** Proxmox cluster on repurposed hardware (Pi as corosync QDevice) · OpenWrt flash for
+transparent DNS redirection · 802.1Q VLAN segmentation for IoT isolation
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pi--hole-FF0000?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-hole" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+</div>
+
 ### [QwenBot](https://github.com/tgavri/qwenbot)
 > A self-hosted LLM chat interface for **Qwen 2.5** models (0.5B → 72B parameters), deployed on datacenter GPUs (NVIDIA A100 80GB).
 - Real-time token streaming over **WebSockets**
